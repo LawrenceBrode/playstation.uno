@@ -29,6 +29,8 @@ Infine ho lavato la scheda sotto l'acqua corrente e l'ho asciugare, procedendo a
 <br><br>
 Fatto ciò ho iniziato la parte più complicata, quella di sabbiatura della scheda, l'obiettivo è di rimuovere la Solder Mask (vernice verde solito delle PCB che evita l'ossidazione delle piste di rame), ho usato una spugna di cartavetro a grana fine, di seguito si vedono i due lavori, ancora in corso.
 <br><br>
+
 ![topLayerSolderMaskEdited](https://github.com/Lawrence090823/PS1-SANDSTORM/assets/163355889/4cb0356b-e455-4b37-90b1-d621e80ffa62)
+
 ![topLayerCopperEdited](https://github.com/Lawrence090823/PS1-SANDSTORM/assets/163355889/e02c0fe5-1a67-4c00-b6d9-0142c7aefc99)
 
