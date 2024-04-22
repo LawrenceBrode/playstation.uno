@@ -2,6 +2,6 @@ body{
   background-color: #ededed;
 }
 
-div{
+#mainsection{
   border: 5px solid red;
 }
