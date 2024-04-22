@@ -1,3 +1,7 @@
 body{
   background-color: #ededed;
 }
+
+div{
+  border: 5px solid red;
+}
