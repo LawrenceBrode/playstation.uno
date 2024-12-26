@@ -1,3 +1,8 @@
+https://drive.google.com/file/d/1QOa1Ci1hhO2Aoj20PWo5wt0c2_igYG66/view?usp=sharing
+this is a tiff file with multilayer drawings of the traces, i used Sketchbook, using gimp you could need a plugin to view the layers. Thats with the update folder are all the work i did :)
+
+
+
 # PS1-SANDPAPER
 Sony's Playstation 1 console reverse engineering
 
